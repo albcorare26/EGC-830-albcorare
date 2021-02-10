@@ -1,6 +1,8 @@
 Plataforma voto electrónico educativa
 =====================================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b4fa3b74d28448bdb51a1ac3a14036ae)](https://app.codacy.com/gh/albcorare26/EGC-830-albcorare?utm_source=github.com&utm_medium=referral&utm_content=albcorare26/EGC-830-albcorare&utm_campaign=Badge_Grade)
+
 prueba
 
 El objetivo de este proyecto es implementar una plataforma de voto
